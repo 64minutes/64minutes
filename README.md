@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhao Wei</h1>
-<h3 align="center">An aspiring software developer after completing Harvard's CS50. Also interested in cybersecurity.</h3>
+<h3 align="center">An aspiring software developer after completing Harvard's CS50. Also interested in learning cybersecurity and currently taking CS50's cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=64minutes&label=Profile%20views&color=0e75b6&style=flat" alt="64minutes" /> </p>
 
